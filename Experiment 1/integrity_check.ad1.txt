@@ -1,0 +1,30 @@
+﻿Created By Exterro® FTK® Imager 8.2.0.33 
+
+Case Information: 
+Acquired using: ADI8.2.0.33
+Case Number: 001
+Evidence Number: 1
+Unique Description: testcase 1
+Examiner: rollno16
+Notes: 
+Encrypted Password : 
+--------------------------------------------------------------
+
+Information for C:\Users\acer\Downloads\integrity_check.ad1:
+[Computed Hashes]
+ MD5 checksum:    f61c72a977fd71e07a8ace25c836784f
+ SHA1 checksum:   078afbdbc357d508f9da2090fb1fd9edbc3309f3
+
+Image information:
+ Acquisition started:   Mon Mar  2 11:13:30 2026
+ Acquisition finished:  Mon Mar  2 11:13:30 2026
+ Segment list:
+  C:\Users\acer\Downloads\integrity_check.ad1
+ COMPUTED HASH :  f61c72a977fd71e07a8ace25c836784f
+ COMPUTED HASH :  078afbdbc357d508f9da2090fb1fd9edbc3309f3
+
+Image Verification Results:
+ Verification started:  Mon Mar  2 11:13:30 2026
+ Verification finished: Mon Mar  2 11:13:30 2026
+ MD5 checksum:    f61c72a977fd71e07a8ace25c836784f : verified
+ SHA1 checksum:   078afbdbc357d508f9da2090fb1fd9edbc3309f3 : verified
